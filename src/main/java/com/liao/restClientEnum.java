@@ -2,7 +2,7 @@ package com.liao;
 
 public class restClientEnum {
 
-    public static String createIndexTemplate ="{\n" +
+    public static String  createIndexTemplate ="{\n" +
             "  \"mappings\": {\n" +
             "  \"properties\":{\n" +
             "    \"id\":{\n" +

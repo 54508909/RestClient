@@ -22,4 +22,9 @@ public class HotelServiceImpl implements HotelService{
     public List<Hotel> getHotelList() {
         return hotelMapper.getHotelList();
     }
+
+    @Override
+    public List<Hotel> getHotelList2() {
+        return null;
+    }
 }

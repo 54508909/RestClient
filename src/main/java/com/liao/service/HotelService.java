@@ -9,4 +9,7 @@ public interface HotelService {
      Hotel getHotel(Integer id);
 
      List<Hotel> getHotelList();
+
+     List<Hotel> getHotelList2();
+
 }
