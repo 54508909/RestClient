@@ -1,0 +1,13 @@
+com\liao\controller\TestController$1.class
+com\liao\Application.class
+com\liao\utils\RedisCache.class
+com\liao\controller\TestController.class
+com\liao\service\HotelService.class
+com\liao\mapper\HotelMapper.class
+com\liao\config\JedisConfig.class
+com\liao\pojo\HotelDoc.class
+com\liao\utils\ObjectTranscoderUtil.class
+com\liao\restClientEnum.class
+com\liao\pojo\Hotel.class
+com\liao\service\HotelServiceImpl.class
+com\liao\utils\RedisUtils.class
